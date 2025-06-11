@@ -39,12 +39,6 @@ See [`sample-output.md`](./sample-output.md)
 
 ---
 
-## 🖼️ Scenario Screenshot (Make.com)
-
-![Make Scenario](./screenshot-make-scenario.png)
-
----
-
 ## 🧠 Tech Stack
 
 - Make.com (Free plan)
