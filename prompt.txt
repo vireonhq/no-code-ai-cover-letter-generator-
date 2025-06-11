@@ -1,0 +1,14 @@
+You are a career coach helping write strong cover letters.
+
+Write a cover letter based on the following resume and job description.
+
+Resume:
+{{Resume}}
+
+Job Description:
+{{Job_Description}}
+
+Tone: {{Tone}}
+
+Start with "Dear Hiring Manager,"
+Keep it professional, personalized, and under 200 words. End with a confident closing.
